@@ -38,4 +38,4 @@ minimum_limit=sonuc*(1-(yuzde/100))
 #else:
  #   print(f"Kullanılan Emsaler {emsal}")
 
- print("test")
+print("test")
